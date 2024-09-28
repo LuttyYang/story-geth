@@ -25,7 +25,7 @@ func main() {
 		},
 		GethURL:       "http://127.0.0.1:8546",
 		RemoteGeth:    true,
-		Port:          6666,
+		Port:          36666,
 		SkipGethAdmin: false,
 		GethArguments: `--config=/app/ethereum/geth.toml --gcmode=archive --graphql`,
 		ChainConfig:   params.IliadChainConfig,
