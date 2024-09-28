@@ -23,7 +23,7 @@ func main() {
 			Hash:  params.IliadGenesisHash.Hex(),
 			Index: 0,
 		},
-		GethURL:       "http://127.0.0.1:8546",
+		GethURL:       "http://127.0.0.1:8545",
 		RemoteGeth:    true,
 		Port:          36666,
 		SkipGethAdmin: false,
