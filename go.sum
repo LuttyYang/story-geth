@@ -135,8 +135,6 @@ github.com/coinbase/rosetta-geth-sdk v0.0.16 h1:Ugg06MEkG7LcsLKLTD6Tcr3uNk9o0dra
 github.com/coinbase/rosetta-geth-sdk v0.0.16/go.mod h1:QvouTkcgbwSGK71zlDY9icQMxAnIeu/rnwO1VybrcMk=
 github.com/coinbase/rosetta-sdk-go v0.8.2 h1:+sNgMUPpntOsYLy5aRsHqBY6I0MTxZkS4JXV1Un3DKc=
 github.com/coinbase/rosetta-sdk-go v0.8.2/go.mod h1:tXPR6AIW9ogsH4tYIaFOKOgfJNanCvcyl7JKLd4DToc=
-github.com/coinbase/rosetta-sdk-go/types v1.0.0 h1:jpVIwLcPoOeCR6o1tU+Xv7r5bMONNbHU7MuEHboiFuA=
-github.com/coinbase/rosetta-sdk-go/types v1.0.0/go.mod h1:eq7W2TMRH22GTW0N0beDnN931DW0/WOI1R2sdHNHG4c=
 github.com/consensys/bavard v0.1.13 h1:oLhMLOFGTLdlda/kma4VOJazblc7IM5y5QPd2A/YjhQ=
 github.com/consensys/bavard v0.1.13/go.mod h1:9ItSMtA/dXMAiL7BG6bqW2m3NdSEObYWoH223nGHukI=
 github.com/consensys/gnark-crypto v0.12.1 h1:lHH39WuuFgVHONRl3J0LRBtuYdQTumFSDtJF7HpyG8M=
